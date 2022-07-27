@@ -1,5 +1,5 @@
 <a href="https://discord.com/users/249220644741447680">
-<img align="right" width="50%" src="https://lanyard-profile-readme.vercel.app/api/249220644741447680?bg=161B22&borderRadius=5px%205px%200%200&idleMessage=idle"/>
+<img align="right" width="50%" src="https://lanyard-profile-readme.vercel.app/api/249220644741447680?bg=161B22&borderRadius=5px%205px%200%200&idleMessage=currently idle"/>
 </a>
 
 <a href="https://wakatime.com/0x69ED75" target="_blank">
