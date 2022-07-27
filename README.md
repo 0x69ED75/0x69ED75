@@ -1,16 +1,15 @@
-### Hi there 👋
+<a href="https://discord.com/users/249220644741447680">
+<img align="right" width="50%" src="https://lanyard-profile-readme.vercel.app/api/249220644741447680?bg=161B22&borderRadius=5px%205px%200%200&idleMessage=idle"/>
+</a>
 
-<!--
-**0x69ED75/0x69ED75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📋 Current TODO:
+- continue practicing git
+- continue learning JS
+- Finish learning React
+- Make some kind of small-scale react project
+
+<a href="https://wakatime.com/0x69ED75" target="_blank">
+  <img width="50%" align="right" alt="Weekly Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=0x69ED75&border_radius=0%200%205px%205px&theme=dark&bg_color=161B22&border_color=161B22&icon_color=58a6ff&show_icons=true&disable_animations=true&custom_title=Weekly%20Stats">
+</a>
