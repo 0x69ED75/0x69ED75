@@ -9,9 +9,6 @@
 
 
 ## 📋 Current TODO:
-- continue practicing git
-- continue learning JS
-- Finish learning React
-- Make some kind of small-scale react project
-
+- Learn advanced React
+- Learn some back-end technologies (Spring | NodeJS)
 
