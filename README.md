@@ -3,7 +3,7 @@
 </a>
 
 <a href="https://wakatime.com/0x69ED75" target="_blank">
-  <img width="50%" align="right" alt="Weekly Stats" src=https://github-readme-stats.vercel.app/api/wakatime?username=0x69ED75&border_radius=0%200%205px%205px&theme=dark&bg_color=161B22&border_color=161B22&icon_color=58a6ff&show_icons=true&disable_animations=true&custom_title=Weekly%20Stats&v=2>
+  <img width="50%" align="right" alt="Weekly Stats" src=https://github-readme-stats.vercel.app/api/wakatime?username=0x69ED75&hide=XML,Markdown,IDEA_MODULE&border_radius=0%200%205px%205px&theme=dark&bg_color=161B22&border_color=161B22&icon_color=58a6ff&show_icons=true&disable_animations=true&custom_title=Weekly%20Stats&v=2>
 </a>
 
 
