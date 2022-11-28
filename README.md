@@ -10,5 +10,5 @@
 
 ## 📋 Current TODO:
 - Continue with advanced React
-- Learn how to use NextJS and Vercel
+- Learn how to use NextJS and Prisma with Vercel.
 
