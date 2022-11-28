@@ -9,6 +9,6 @@
 
 
 ## 📋 Current TODO:
-- Learn advanced React
-- Learn some back-end technologies (Spring | NodeJS)
+- Continue with advanced React
+- Learn how to use NextJS and Vercel
 
