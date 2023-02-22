@@ -9,6 +9,5 @@
 
 
 ## 📋 Current TODO:
-- Continue with advanced React
-- Learn how to use NextJS and Prisma with Vercel.
-
+- [x] Create small demo app to get a grasp on TS,TRPC,Prisma and Tailwind
+- [ ] Create T3 app to further improve and demonstrate knowledge of: Nextauth,TS,TRPC,Prisma and Tailwind
